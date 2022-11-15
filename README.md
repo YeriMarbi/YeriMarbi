@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>Welcome to my profile 👩🏻‍💻<br><br>🔭 I’m currently working on md-links<br>🌱 I’m current a student in Laboratoria <br>
+Hi there!<br>Welcome to my profile 👩🏻‍💻<br><br>🔭 I’m currently working on burger queen api client<br>🌱 I’m current a student in Laboratoria <br>
 
 
 ## 🌐 Socials:
