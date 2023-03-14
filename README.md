@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>Welcome to my profile 👩🏻‍💻<br><br>🔭 I’m currently learning React <br>
+Hi there!<br>Welcome to my profile 👩🏻‍💻<br><br>🔭 I’m currently learning Java <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]www.linkedin.com/in/yeri-zepeda) 
